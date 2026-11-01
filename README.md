@@ -8,3 +8,7 @@ Public, permanent image URLs for Walsh Equity social posts (Buffer pulls images 
 - `assets/` — Manrope + Roboto Slab (OFL, via Fontsource) and the gold logo.
 
 Image URL pattern: `https://raw.githubusercontent.com/walshequity/social/main/posts/YYYY-MM-DD/N.png`
+
+## Website feed
+`posts/index.json` is the "Our market notes" feed on walshequity.com (read live by the site, no redeploy).
+The daily task adds each day's entries with `python3 tools/notes.py add today.json`; `python3 tools/notes.py check` validates.
