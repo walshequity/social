@@ -1,4 +1,137 @@
 {
- "updated": null,
- "posts": []
+ "updated": "2026-11-02T19:04:29+00:00",
+ "posts": [
+  {
+   "date": "2026-11-02",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "Florida votes on the apartment tax cap tomorrow.",
+   "summary": "Amendment 3 would cut the annual cap on assessed-value increases for non-homestead property, rentals included, from 10% to 5% for non-school taxes. Informational only, not a voting recommendation.",
+   "alt": "Bar chart comparing the current 10% annual cap on non-homestead assessment increases with the proposed 5% cap.",
+   "sourceName": "Pinellas County Property Appraiser",
+   "sourceUrl": "https://bit.ly/3V1yYxJ",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-02/1.png"
+  },
+  {
+   "date": "2026-11-02",
+   "order": 2,
+   "slot": "National",
+   "headline": "Investors are calling the bottom.",
+   "summary": "ULI and PwC's Emerging Trends 2027 shows a nearly 5:1 buy-to-hold ratio for multifamily, with deliveries forecast to fall to about 300,000 in 2027.",
+   "alt": "Bar chart of U.S. apartment deliveries: about 700K at the 2023–24 peak versus about 300K forecast for 2027.",
+   "sourceName": "ULI & PwC, Emerging Trends 2027",
+   "sourceUrl": "https://pwc.to/47Suw7y",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-02/2.png"
+  },
+  {
+   "date": "2026-11-02",
+   "order": 3,
+   "slot": "Florida",
+   "headline": "Florida insurance is finally giving back.",
+   "summary": "The median Florida multifamily property premium per door fell from $797 in early 2025 to $479 in April 2026, while liability premiums are rising.",
+   "alt": "Bar chart of median Florida multifamily property premium per door: $797 in early 2025 versus $479 in April 2026.",
+   "sourceName": "Insurance Journal",
+   "sourceUrl": "https://bit.ly/4sDZcmj",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-02/3.png"
+  },
+  {
+   "date": "2026-11-01",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "Southwest Florida is still on sale.",
+   "summary": "Q3 2026 concession rates ran 12.9% in Naples, 11.5% in Fort Myers and 10.5% in Sarasota, versus 4.2% nationally.",
+   "alt": "Bar chart of Q3 2026 concession rates: Naples 12.9%, Fort Myers 11.5%, Sarasota 10.5%, U.S. average 4.2%.",
+   "sourceName": "Apartments.com RentPulse",
+   "sourceUrl": "https://www.businesswire.com/news/home/20261028484177/en/Apartments.com-Q3-RentPulse-Report-Apartment-Markets-Tighten-But-Renters-Still-Have-Leverage",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-01/1.png"
+  },
+  {
+   "date": "2026-11-01",
+   "order": 2,
+   "slot": "National",
+   "headline": "The supply wave is breaking.",
+   "summary": "U.S. market-rate completions fell from nearly 588K at the 2024 peak to about 403K in 2025, with roughly 314K forecast for 2026.",
+   "alt": "Bar chart of U.S. market-rate apartment completions: 588K in 2024, 403K in 2025, 314K forecast for 2026.",
+   "sourceName": "RealPage",
+   "sourceUrl": "https://www.realpage.com/analytics/webcast-recap-us/",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-01/2.png"
+  },
+  {
+   "date": "2026-11-01",
+   "order": 3,
+   "slot": "National",
+   "headline": "Capital just hit the brakes.",
+   "summary": "All four NMHC October survey indexes came in below 50. The Debt Financing Index fell to 10 from 46 in July.",
+   "alt": "Bar chart of NMHC October 2026 survey indexes: market tightness 47, sales volume 22, equity financing 17, debt financing 10.",
+   "sourceName": "NMHC Quarterly Survey",
+   "sourceUrl": "https://www.nmhc.org/research-insight/quarterly-survey/2026/nmhc-quarterly-survey-of-apartment-conditions-october-2026/",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-01/3.png"
+  },
+  {
+   "date": "2026-10-30",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "Tampa is digesting the supply wave.",
+   "summary": "Over the four quarters through Q3 2026, Tampa delivered 7,609 units and absorbed 6,859. Occupancy is 91.8%, and effective rents are down 2.5% year over year.",
+   "alt": "Bar chart comparing Tampa units delivered (7,609) and absorbed (6,859) over the trailing four quarters.",
+   "sourceName": "MMG Real Estate Advisors",
+   "sourceUrl": "https://mmgrea.com/tampa-q3-2026-market-report/",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-10-30/1.png"
+  },
+  {
+   "date": "2026-10-30",
+   "order": 2,
+   "slot": "National",
+   "headline": "Apartment CMBS distress just crossed 8%.",
+   "summary": "Multifamily CMBS delinquency hit 8.04% in September 2026, up from 6.59% a year earlier, and the special servicing rate reached 8.54%.",
+   "alt": "Column chart of multifamily CMBS delinquency: 6.59% Sep 2025, 7.15% Mar 2026, 8.04% Sep 2026.",
+   "sourceName": "Multifamily Dive (Trepp data)",
+   "sourceUrl": "https://www.multifamilydive.com/news/cmbs-servicing-federal-reserve-apartment-deliquency/833363/",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-10-30/2.png"
+  },
+  {
+   "date": "2026-10-30",
+   "order": 3,
+   "slot": "National",
+   "headline": "42 of 50 metros blinked in October.",
+   "summary": "National asking rent fell 0.15% month over month to $1,749 in October 2026, but is still up 1.6% year over year.",
+   "alt": "Chart showing 42 of the top 50 markets declined in October, with year-over-year rent change for selected metros.",
+   "sourceName": "Apartments.com",
+   "sourceUrl": "https://www.costargroup.com/press-room/2026/apartmentscom-releases-multifamily-rent-growth-report-october-2026",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-10-30/3.png"
+  },
+  {
+   "date": "2026-10-29",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "The banks stepped back. Debt funds stepped in.",
+   "summary": "South Florida rental-housing loan originations hit $11.8B in Q1–Q3 2026. Banks fell to $983M from $1.9B while debt funds lent $3.7B.",
+   "alt": "Bar chart of South Florida apartment loan volume by lender type: debt funds $3.7B, GSEs $1.4B, banks down to $1.0B.",
+   "sourceName": "Miami Realtors / Yardi Matrix",
+   "sourceUrl": "https://www.miamirealtors.com/2026/10/27/south-florida-rents-rise-as-insurance-costs-fall/",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-10-29/1.png"
+  },
+  {
+   "date": "2026-10-29",
+   "order": 2,
+   "slot": "Florida",
+   "headline": "Orlando is catching its breath.",
+   "summary": "Construction is down 65.9% from the 2023 peak, and about 6,400 units were absorbed in 2026, outpacing completions for the first time since 2021.",
+   "alt": "Bar chart of 2021–2026 population growth: Orlando 11.5% vs Miami 6.8%, Palm Beach 6.6%, Fort Lauderdale 5.8%.",
+   "sourceName": "The Real Deal",
+   "sourceUrl": "https://therealdeal.com/miami/2026/10/02/orlando-multifamily-market-rebounds-after-oversupply/",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-10-29/2.png"
+  },
+  {
+   "date": "2026-10-29",
+   "order": 3,
+   "slot": "National",
+   "headline": "$114B in Q3 deals. Look closer.",
+   "summary": "Q3 apartment sales hit $114.1B, but 61% was entity-level, swollen by the AvalonBay–Equity Residential merger. Without it, volume fell 7% and prices fell 4.6% year over year.",
+   "alt": "Bar showing 61% of Q3 2026 multifamily volume was entity-level, with declines in volume, single-asset sales and prices.",
+   "sourceName": "Colliers (MSCI data)",
+   "sourceUrl": "https://knowledge-leader.colliers.com/rachael-rothman/quick-hits-q3-msci-update-a-volume-surge-masks-two-different-markets/",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-10-29/3.png"
+  }
+ ]
 }
