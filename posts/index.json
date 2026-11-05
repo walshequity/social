@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-05T04:20:15+00:00",
+ "updated": "2026-11-05T14:01:51+00:00",
  "posts": [
+  {
+   "date": "2026-11-05",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "Southwest Florida is discounting hardest.",
+   "summary": "The country's three deepest rent discounts in Q3 2026 were on Florida's Gulf Coast: Naples 12.9%, Fort Myers 11.5% and Sarasota 10.5%, vs 4.2% nationally. In Southwest Florida, asking rent isn't the rent.",
+   "alt": "Bar chart of Q3 2026 concession rates: Naples 12.9%, Fort Myers 11.5%, Sarasota 10.5%, U.S. 4.2%.",
+   "sourceName": "Apartments.com Q3 2026 RentPulse Report",
+   "sourceUrl": "https://investors.costargroup.com/news-releases/news-release-details/apartmentscom-q3-rentpulse-report-apartment-markets-tighten",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-05/1.png"
+  },
+  {
+   "date": "2026-11-05",
+   "order": 2,
+   "slot": "National",
+   "headline": "Apartment capital just froze.",
+   "summary": "All four NMHC October survey indexes fell below 50, with debt financing at 10. 53% of respondents said they can't refinance maturing loans in full without exceeding lender DSCR or LTV limits.",
+   "alt": "Bar chart of NMHC October 2026 survey indexes vs July: market tightness 47 (57), sales volume 22 (46), equity financing 17 (44), debt financing 10 (46).",
+   "sourceName": "NMHC Quarterly Survey, October 2026",
+   "sourceUrl": "https://www.nmhc.org/news/press-release/2026/apartment-market-conditions-weaken-as-higher-interest-rates-make-capital-more-difficult-to-obtain/",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-05/2.png"
+  },
+  {
+   "date": "2026-11-05",
+   "order": 3,
+   "slot": "National",
+   "headline": "Delinquencies are creeping up.",
+   "summary": "Commercial mortgage delinquencies rose again in Q3 2026: CMBS 4.97%, life companies 1.33% and Fannie/Freddie 1.16%. Distress is building slowly, not breaking.",
+   "alt": "Bar chart of MBA Q3 2026 delinquency rates vs prior quarter: CMBS 4.97% (4.82), life companies 1.33% (1.19), Fannie and Freddie 1.16% (1.11), FHA 0.90% (1.06).",
+   "sourceName": "MBA CREF Loan Performance Survey, Q3 2026",
+   "sourceUrl": "https://www.mba.org/news-and-research/newsroom/news/2026/10/27/delinquency-rates-for-commercial-properties-increased-in-the-third-quarter-of-2026",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-05/3.png"
+  },
   {
    "date": "2026-11-04",
    "order": 1,
