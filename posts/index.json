@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-02T19:04:29+00:00",
+ "updated": "2026-11-05T04:20:15+00:00",
  "posts": [
+  {
+   "date": "2026-11-04",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "Amendment 3 passed.",
+   "summary": "Florida voters approved Amendment 3 with 62% when the race was called (unofficial). The annual cap on assessed-value increases for non-homestead property, rentals included, drops from 10% to 5% for non-school taxes starting Jan 1, 2027. Informational only, not tax advice.",
+   "alt": "Graphic showing Florida's non-homestead assessment cap falling from 10% to 5% after Amendment 3 passed with 62% of the vote.",
+   "sourceName": "WUSF; CBS12",
+   "sourceUrl": "https://www.wusf.org/politics-issues/2026-11-03/florida-2026-election-results-voters-approve-amendment-3-property-tax-reduction",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-04/1.png"
+  },
+  {
+   "date": "2026-11-04",
+   "order": 2,
+   "slot": "National",
+   "headline": "Rent forecasts just went up.",
+   "summary": "Apartments.com raised its Q4 2027 rent growth forecast to 2.6% from 1.9%, citing demand. October asking rents averaged $1,749, up 1.6% year over year.",
+   "alt": "Bar chart of Apartments.com's Q4 2027 rent growth forecast rising from 1.9% to 2.6%.",
+   "sourceName": "Apartments.com / CoStar",
+   "sourceUrl": "https://investors.costargroup.com/news-releases/news-release-details/apartmentscom-upgrades-us-multifamily-growth-forecast",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-04/2.png"
+  },
+  {
+   "date": "2026-11-04",
+   "order": 3,
+   "slot": "Florida",
+   "headline": "Tampa is still digesting supply.",
+   "summary": "Tampa effective rents fell 2.5% year over year in Q3 2026 to $1,709, with 7,609 units completed vs 6,859 absorbed over four quarters. Construction starts are down 26%.",
+   "alt": "Bar chart of Tampa trailing four-quarter completions (7,609) vs net absorption (6,859), Q3 2026.",
+   "sourceName": "MMG Real Estate Advisors",
+   "sourceUrl": "https://mmgrea.com/tampa-q3-2026-market-report/",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-04/3.png"
+  },
+  {
+   "date": "2026-11-03",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "South Florida's lenders are back.",
+   "summary": "South Florida rental property loan originations reached $11.8B in Q1–Q3 2026, up 12%, with Fannie/Freddie purchases at $1.4B. September asking rents rose 2.6% in West Palm Beach, 2.0% in Miami and 1.5% in Fort Lauderdale, vs 0.7% nationally.",
+   "alt": "Bar chart of September 2026 asking rent growth: West Palm Beach 2.6%, Miami 2.0%, Fort Lauderdale 1.5%, U.S. 0.7%.",
+   "sourceName": "MIAMI REALTORS + RWorld (Yardi Matrix)",
+   "sourceUrl": "https://www.miamirealtors.com/2026/10/27/south-florida-rents-rise-as-insurance-costs-fall/",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-03/1.png"
+  },
+  {
+   "date": "2026-11-03",
+   "order": 2,
+   "slot": "National",
+   "headline": "Rents just turned positive.",
+   "summary": "Apartment List's national median rent rose 0.1% year over year in October, the first positive reading since mid-2023. Vacancy is 7.0%, still above the 2017–19 average of 6.4%.",
+   "alt": "Bar chart of October month-over-month rent change: −0.8% in 2025, −0.4% 2017–19 average, −0.3% in 2026.",
+   "sourceName": "Apartment List National Rent Report",
+   "sourceUrl": "https://www.apartmentlist.com/research/national-rent-data",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-03/2.png"
+  },
+  {
+   "date": "2026-11-03",
+   "order": 3,
+   "slot": "National",
+   "headline": "The 10-year is back at 5%.",
+   "summary": "The Fed held at 3.75–4.00% on Oct 28 with two dissents for a hike, and the 10-year Treasury hit 5.05%. The apartment cap rate spread over the 10-year was about 118 bps in Q2, vs a roughly 290 bps average since 2010.",
+   "alt": "Bar chart comparing the apartment cap rate spread over the 10-year Treasury: about 290 bps average since 2010 vs about 118 bps in Q2 2026.",
+   "sourceName": "Federal Reserve; Arbor/Chandan Economics",
+   "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/files/monetary20261028a1.pdf",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-03/3.png"
+  },
   {
    "date": "2026-11-02",
    "order": 1,
