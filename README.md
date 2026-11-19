@@ -11,4 +11,6 @@ Image URL pattern: `https://raw.githubusercontent.com/walshequity/social/main/po
 
 ## Website feed
 `posts/index.json` is the "Our market notes" feed on walshequity.com (read live by the site, no redeploy).
-The daily task adds each day's entries with `python3 tools/notes.py add today.json`; `python3 tools/notes.py check` validates.
+Whoever schedules a LinkedIn post adds its entry with `python3 tools/notes.py add note.json` in the same commit as the graphic,
+with `publishAt` = the scheduled time so the site hides it until the post goes out. `python3 tools/notes.py check` validates.
+Nothing else writes this file: if a post isn't added here, it never shows on the site.

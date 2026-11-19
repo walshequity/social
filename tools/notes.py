@@ -5,8 +5,10 @@ Usage:
   python3 tools/notes.py add posts.json        # posts.json = list of entries (see below)
   python3 tools/notes.py check                 # validate index.json and that every image file exists
 
-Entry fields: date (YYYY-MM-DD), order (1-3), slot ("Florida"/"National"), headline, summary (1–2 sentences),
-image (raw.githubusercontent.com URL of a file in posts/), alt, sourceName, sourceUrl.
+Entry fields: date (YYYY-MM-DD, Eastern date the post goes out), order (1, 2, ... within that date),
+slot ("Florida"/"National"), headline, summary (1–2 sentences), image (raw.githubusercontent.com URL of a .png/.gif
+in posts/), alt, sourceName, sourceUrl, publishAt (optional ISO 8601 with offset, e.g. 2026-11-20T12:15:00-05:00:
+the site hides the note until then, so add it when the post is scheduled).
 Entries are keyed by (date, order): re-adding the same day replaces those entries, nothing else is touched.
 Keeps the newest 180 entries.
 """
@@ -33,6 +35,11 @@ def validate(e):
         raise SystemExit(f"image must be a {RAW}posts/... URL: {e['image']}")
     if not (ROOT / e["image"][len(RAW):]).exists():
         raise SystemExit(f"image file not in repo: {e['image'][len(RAW):]}")
+    if e.get("publishAt"):
+        try:
+            datetime.datetime.fromisoformat(e["publishAt"].replace("Z", "+00:00"))
+        except ValueError:
+            raise SystemExit(f"bad publishAt: {e['publishAt']}")
     for k in ("sourceUrl",):
         if e.get(k) and not e[k].startswith("https://"):
             raise SystemExit(f"{k} must be https: {e[k]}")
