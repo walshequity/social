@@ -1,6 +1,215 @@
 {
- "updated": "2026-11-05T14:01:51+00:00",
+ "updated": "2026-11-19T19:11:03+00:00",
  "posts": [
+  {
+   "date": "2026-11-22",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "HUD's voucher rents rose. Market rents fell.",
+   "summary": "HUD raised the two-bedroom Fair Market Rent in 17 of Florida's 30 HUD metro areas while Florida rents fell 0.8% over the year. Underwrite voucher units at the lower of the payment standard and market comps.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-22/fl-fmr-bullet-1080.gif",
+   "sourceName": "HUD Fair Market Rents FY2027; Apartment List; Walsh Equity analysis",
+   "publishAt": "2026-11-23T01:30:00Z"
+  },
+  {
+   "date": "2026-11-20",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "South Florida's pipeline differs by county.",
+   "summary": "South Florida vacancy fell to 6.0%, but Palm Beach has about 49 months of absorption under construction against 27 in Miami-Dade. Palm Beach's rent growth today is a supply story.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-18/sfl-supply-ladder-final8.gif",
+   "sourceName": "Lee & Associates (CoStar data); MIAMI REALTORS (Yardi Matrix data); Walsh Equity analysis",
+   "publishAt": "2026-11-20T17:15:00Z"
+  },
+  {
+   "date": "2026-11-16",
+   "order": 1,
+   "slot": "National",
+   "headline": "Texas cut apartment permits by more than half.",
+   "summary": "Comparing January to September permits with 2022, the four Texas metros are down 57% while Tennessee is up 40% and the Carolinas 6%. Most permits become deliveries about two years out.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-16/sunbelt-permit-map.gif",
+   "sourceName": "U.S. Census building permits; Walsh Equity analysis"
+  },
+  {
+   "date": "2026-11-16",
+   "order": 2,
+   "slot": "National",
+   "headline": "U.S. rents just turned positive.",
+   "summary": "National median rent rose 0.1% from a year earlier, the first positive reading since mid-2023, but vacancy is still 7.0%. We treat market rent lift as upside, not the plan.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-16/rents-metro-lollipop.gif",
+   "sourceName": "Apartment List; RealPage via CRE Daily; Walsh Equity analysis"
+  },
+  {
+   "date": "2026-11-12",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "Florida's fastest job markets have the softest rents.",
+   "summary": "Across 18 Florida metros, every one adding jobs at 0.9% or faster saw rents fall. Where job growth is real and the pipeline is thin, today's weak rents may be the entry point.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-12/fl-jobs-rents-scatter.gif",
+   "sourceName": "BLS, Apartment List and U.S. Census permits; Walsh Equity analysis"
+  },
+  {
+   "date": "2026-11-11",
+   "order": 1,
+   "slot": "National",
+   "headline": "Banks tightened apartment loans again.",
+   "summary": "A net 8.8% of banks tightened multifamily standards in Q3, with smaller banks tightening more. If a refi leans on a local bank, line up a second lender early.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-11/1-gauge.gif",
+   "sourceName": "Federal Reserve SLOOS, Oct 2026"
+  },
+  {
+   "date": "2026-11-11",
+   "order": 2,
+   "slot": "Florida",
+   "headline": "Florida's condo glut is shrinking.",
+   "summary": "Condo-townhouse listings fell 9.0% and months' supply dropped to 7.7 from 9.1. Fewer owners should turn unsold condos into rentals that compete with older apartments.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-11/2-slope.png",
+   "sourceName": "Florida Realtors, Sept 2026"
+  },
+  {
+   "date": "2026-11-11",
+   "order": 3,
+   "slot": "National",
+   "headline": "More apartment loans hit special servicing.",
+   "summary": "The multifamily CMBS special servicing rate rose to 9.22% in October. Expect more extensions, note sales and discounted B to C deals through 2027.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-11/3-rings.gif",
+   "sourceName": "Trepp via CRE Daily, Oct 2026"
+  },
+  {
+   "date": "2026-11-10",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "Florida's rents are splitting.",
+   "summary": "Jacksonville rents are up 2.6% while Tampa is down 1.0%. Don't underwrite Florida rent growth; underwrite the submarket.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-09/1.png",
+   "sourceName": "RealPage, October 2026"
+  },
+  {
+   "date": "2026-11-10",
+   "order": 2,
+   "slot": "Florida",
+   "headline": "Live Local wins in rural Sarasota.",
+   "summary": "A Nov. 4 order lets a 600+ unit Live Local project near Celery Fields move forward, and more than 7,600 rural apartments could be cleared. Underwrite the long-run pipeline in Sarasota-Manatee. Informational only, not legal advice.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-10/1.png",
+   "sourceName": "Suncoast Searchlight, Nov 2026; RealPage via NAA, Q3 2026"
+  },
+  {
+   "date": "2026-11-10",
+   "order": 3,
+   "slot": "National",
+   "headline": "Class C still discounts the most.",
+   "summary": "14.5% of stabilized U.S. units offered concessions in September, with Class C at 18.1%. The average discount is about 5.8 weeks free, so underwrite effective rent, not asking.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-09/2.png",
+   "sourceName": "RealPage, September 2026"
+  },
+  {
+   "date": "2026-11-10",
+   "order": 4,
+   "slot": "National",
+   "headline": "Supply and demand nearly met.",
+   "summary": "About 305,000 units were absorbed over 12 months against about 318,000 completed, and the gap shrank to about 13,200 units. Expect the national oversupply gap to close within a quarter or two.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-10/2.png",
+   "sourceName": "National Apartment Association (RealPage data), Q3 2026"
+  },
+  {
+   "date": "2026-11-10",
+   "order": 5,
+   "slot": "National",
+   "headline": "Jobs came back in October.",
+   "summary": "Payrolls rose 165,000 in October against a 48,000 monthly average over the prior year. Wage growth near 3% supports modest renewal increases, not big jumps.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-09/3.png",
+   "sourceName": "U.S. Bureau of Labor Statistics, October 2026"
+  },
+  {
+   "date": "2026-11-10",
+   "order": 6,
+   "slot": "Florida",
+   "headline": "South Florida vacancy keeps falling.",
+   "summary": "South Florida vacancy fell to 6.0% in Q3 from 6.7% a year earlier, with absorption ahead of last year. Count nearby lease-ups before banking on rent bumps.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-10/3.png",
+   "sourceName": "Lee & Associates (CoStar data), Q3 2026"
+  },
+  {
+   "date": "2026-11-09",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "Miami is tight. The pipeline isn't.",
+   "summary": "Miami vacancy is 4.4%, but a 23,771-unit pipeline equals about 15 quarters of absorption. Expect new lease-ups to keep concessions alive in the core into 2027.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-08/1.png",
+   "sourceName": "Matthews, Q3 2026"
+  },
+  {
+   "date": "2026-11-09",
+   "order": 2,
+   "slot": "Florida",
+   "headline": "The cap isn't a rate cap.",
+   "summary": "Amendment 3 cuts the non-homestead assessment cap to 5% from 2027, but local governments keep their millage authority. Model taxes county by county. Informational only, not tax advice.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-08/3.png",
+   "sourceName": "Florida Chamber (EDR), Nov 2026"
+  },
+  {
+   "date": "2026-11-09",
+   "order": 3,
+   "slot": "National",
+   "headline": "Nearly $250B matures by 2028.",
+   "summary": "About $116B of multifamily debt matures by end-2027 and nearly $250B through 2028. Expect extensions, rescue capital and forced sales on 2020 to 2022 floating-rate loans.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-08/2.png",
+   "sourceName": "Yardi Matrix, Oct 2026"
+  },
+  {
+   "date": "2026-11-08",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "Fort Lauderdale sales are up 37%.",
+   "summary": "Trailing sales reached $2.7B even as cap rates rose to 5.64%. With a 6,284-unit pipeline, expect rents near flat and concessions to linger in lease-up submarkets.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-07/2.png",
+   "sourceName": "Matthews, Q3 2026"
+  },
+  {
+   "date": "2026-11-08",
+   "order": 2,
+   "slot": "National",
+   "headline": "Vacancy fell a third straight quarter.",
+   "summary": "U.S. vacancy fell to 8.6% in Q3 and asking rents rose 2.3%, while units under construction hit the lowest share of stock since 2013. The South still lags at 10.5% vacancy.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-07/1.png",
+   "sourceName": "Cushman & Wakefield, Q3 2026"
+  },
+  {
+   "date": "2026-11-08",
+   "order": 3,
+   "slot": "National",
+   "headline": "Renewal raises just hit a low.",
+   "summary": "Renewal rent growth slowed to 1.7% in September, the lowest since before 2020. Expect owners to favor retention over renewal bumps this winter.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-07/3.png",
+   "sourceName": "Yardi Matrix, September 2026"
+  },
+  {
+   "date": "2026-11-06",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "Orlando caps are still rising.",
+   "summary": "Orlando's average cap rate reached 5.31%, up 18 straight quarters, while trailing sales fell 39% and rents held flat. With little NOI growth, price on in-place income.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-06/3.png",
+   "sourceName": "Matthews, Q3 2026"
+  },
+  {
+   "date": "2026-11-06",
+   "order": 2,
+   "slot": "National",
+   "headline": "Demand stalled in Q3.",
+   "summary": "U.S. net absorption fell to 8,747 units in Q3 from 42,166 a year earlier, as completions outpaced demand and vacancy rose to 4.7%. Stress-test vacancy at today's level or higher.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-06/2.png",
+   "sourceName": "CBRE, Q3 2026"
+  },
+  {
+   "date": "2026-11-06",
+   "order": 3,
+   "slot": "Florida",
+   "headline": "Jacksonville is absorbing again.",
+   "summary": "Jacksonville absorbed 1,097 units in Q3, up from 15 a year ago, while completions fell 40%. Rents are up 1.7% and concessions should burn off as the pipeline shrinks.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-06/1.png",
+   "sourceName": "Matthews, Q3 2026"
+  },
   {
    "date": "2026-11-05",
    "order": 1,
