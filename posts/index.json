@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:11:03+00:00",
+ "updated": "2026-11-19T20:25:17+00:00",
  "posts": [
   {
    "date": "2026-11-22",
@@ -20,6 +20,17 @@
    "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-18/sfl-supply-ladder-final8.gif",
    "sourceName": "Lee & Associates (CoStar data); MIAMI REALTORS (Yardi Matrix data); Walsh Equity analysis",
    "publishAt": "2026-11-20T17:15:00Z"
+  },
+  {
+   "date": "2026-11-19",
+   "order": 1,
+   "slot": "Florida",
+   "headline": "Orlando cut its apartment permitting by 56% this year.",
+   "summary": "Across 12 Florida metros, permits for buildings with five or more units fell 24% from January to September, while Miami was down just 5% and Port St. Lucie about tripled. Most permits become deliveries about two years out.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-17/fl-permits-multiples-final8.gif",
+   "alt": "Animated small multiples of 5+ unit apartment permits, January to September 2024 to 2026, for 12 Florida metros: Orlando down 56%, Miami down 5%, Port St. Lucie up about threefold.",
+   "sourceName": "U.S. Census Bureau Building Permits Survey; Walsh Equity analysis",
+   "publishAt": "2026-11-19T17:15:00Z"
   },
   {
    "date": "2026-11-16",
