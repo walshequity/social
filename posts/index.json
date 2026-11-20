@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T20:25:17+00:00",
+ "updated": "2026-11-20T00:07:25+00:00",
  "posts": [
+  {
+   "date": "2026-11-24",
+   "order": 1,
+   "slot": "National",
+   "headline": "Big home sales drops barely move apartment vacancy.",
+   "summary": "Four drops of 32% to 50% in U.S. home sales since 1978 moved Census rental vacancy less than a point either way. What changes is turnover: fewer renters leave to buy.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-24/home-sales-vacancy-four-slumps.png",
+   "alt": "Four small charts of U.S. rental vacancy during the 1979-82, 2005-10, 2020 and 2022-23 home sales slumps, each moving less than about one point from the sales peak.",
+   "sourceName": "NAR; Census Housing Vacancy Survey; RealPage; Walsh Equity analysis",
+   "publishAt": "2026-11-24T12:15:00-05:00"
+  },
   {
    "date": "2026-11-22",
    "order": 1,
