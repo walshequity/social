@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:07:25+00:00",
+ "updated": "2026-11-21T00:25:08+00:00",
  "posts": [
   {
    "date": "2026-11-24",
@@ -23,6 +23,18 @@
    "publishAt": "2026-11-23T01:30:00Z"
   },
   {
+   "date": "2026-11-21",
+   "order": 1,
+   "slot": "National",
+   "headline": "Full buildings. Flat NOI.",
+   "summary": "CRED iQ's review of 7,597 securitized apartment loans shows median occupancy unchanged at 94% while expenses (+2.5%) outran revenue (+1.0%) and NOI slipped 0.2%. Free rent now appears in 6.8% of Freddie Mac watchlist comments, up from 3.8% a year earlier.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-21/walshlogic-2026-11-21-below-the-waterline.png",
+   "alt": "Engraved iceberg illustration: above the waterline, 94% occupancy and 1.0% revenue growth; below it, expenses up 2.5%, NOI down 0.2%, 6.8% of watchlist notes citing free rent, Denver NOI down 11.8%, Austin down 10.8%, and 39 of 87 Austin loans below 1.0x debt coverage.",
+   "sourceName": "CRED iQ (also in Commercial Observer); WalshLogic analysis",
+   "sourceUrl": "https://cred-iq.com/blog/2026/11/12/apartment-concessions-free-rent-multifamily-revenue-2026/",
+   "publishAt": "2026-11-21T09:00:00-05:00"
+  },
+  {
    "date": "2026-11-20",
    "order": 1,
    "slot": "Florida",
@@ -31,6 +43,18 @@
    "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-18/sfl-supply-ladder-final8.gif",
    "sourceName": "Lee & Associates (CoStar data); MIAMI REALTORS (Yardi Matrix data); Walsh Equity analysis",
    "publishAt": "2026-11-20T17:15:00Z"
+  },
+  {
+   "date": "2026-11-20",
+   "order": 2,
+   "slot": "National",
+   "headline": "Rents finally rose. Deals still didn't.",
+   "summary": "Yardi Matrix put October asking rents at $1,777, up 1.4% over the year, but buyers pricing off a 10-year near 4.85% want 7% to 8% yields against 5% to 6% on recent trades. Until that gap closes, volume waits.",
+   "image": "https://raw.githubusercontent.com/walshequity/social/main/posts/2026-11-20/walshlogic-2026-11-20-the-gap.png",
+   "alt": "Engraved illustration of two cliffs joined by a broken bridge, with callouts for October rents of $1,777, 1.4% annual rent growth, 5-6% recent yields, a 4.85% 10-year Treasury, 7-8% buyer yields and $62.6B of volume through Q3.",
+   "sourceName": "Yardi Matrix (via Multifamily Dive and CRE Daily); WalshLogic analysis",
+   "sourceUrl": "https://www.multifamilydive.com/news/october-apartment-rents-yardi-multifamily/874417/",
+   "publishAt": "2026-11-20T10:49:01Z"
   },
   {
    "date": "2026-11-19",
